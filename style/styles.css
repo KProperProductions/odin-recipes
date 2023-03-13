@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(172, 191, 241);
+}
+
+#header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    background-color: rgb(124, 156, 245);
+    font-weight: bolder;
+    border-radius: 50px;
+}
+
+img {
+    display:block;
+    margin: auto;
+}
+
+.index {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+}
