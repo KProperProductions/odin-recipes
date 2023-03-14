@@ -20,15 +20,14 @@ h2 {
     font-size: 36px;
 }
 
-p {
+p,
+.links {
+    text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
-}
-
-.links {
-    display: inline;
-    position: none;
+    display: flex;
+    justify-content: center;
     list-style-type: none;
-    padding: 50px;
-    font-size: 24px;
+    padding-inline-start: 40px;
+
 }
